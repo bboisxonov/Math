@@ -1,0 +1,10 @@
+@charset "utf-8";
+@import "./variables";
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+@import "./fonts";
+@import "./normalize";
+@import "./general";
+
+@import "./all-blocks/all-blocks";
