@@ -25,7 +25,7 @@ form.addEventListener('submit' , (event) => {
         resultElement.textContent = hisobla(first,second)
         resultElement.style.color = "green"
     }else{
-        resultElement.textContent = "nototg'ri son kiritildi"
+        resultElement.textContent = "it is not a number"
         resultElement.style.color = "red"
 
     }
@@ -59,7 +59,7 @@ Form.addEventListener('submit' , Event => {
         ResultElement.textContent = Hisobla(First,Second)
         ResultElement.style.color = "green"
     }else{
-        ResultElement.textContent = "nototg'ri son kiritildi"
+        ResultElement.textContent = "it is not a number"
         ResultElement.style.color = "red"
 
     }
@@ -93,7 +93,7 @@ forM.addEventListener('submit' , (evenT) => {
         resultElemenT.textContent = hisoblA(firsT,seconD)
         resultElemenT.style.color = "green"
     }else{
-        resultElemenT.textContent = "nototg'ri son kiritildi"
+        resultElemenT.textContent = "it is not a number"
         resultElemenT.style.color = "red"
 
     }
